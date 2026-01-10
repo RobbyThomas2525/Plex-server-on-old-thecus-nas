@@ -4,5 +4,5 @@ TheCus OS 32bit so these devices '1U4200XXX, 1U4600, N2200XXX, N3200XXX, N4100PR
 
 (Note for Plex) I am not associated in plex in any way also forget about plex supporting this it's from 2013 and there might be a security risk using this old of a version but anyways
 
-if not the guild will still work if you have TheCus OS 5 64 bit and 6 7 32 and 64 bit you just need to get it from archive.org instead of me here's the URL where i got it from
+if not the guild should still work if you have TheCus OS 5 64 bit and 6 7 32 and 64 bit you just need to get it from archive.org instead of me here's the URL where i got it from
 https://web.archive.org/web/20150423124637/http://www.thecus.com/sp_app_center.php
