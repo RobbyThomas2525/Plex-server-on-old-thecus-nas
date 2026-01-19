@@ -27,5 +27,7 @@ step 5 is adding the media to plex the way i do it is i make a media folder and 
 
 https://youtu.be/wq-W7blKmp0?si=I9GKzial3s7ImiBl
 
-Last step last thing is to check to see if it worked only thing i'll say is the plex app won't find it cause again it's from 2013 and i guess the plex apps do not like the old verison your using the way you got to do it is use it with some sort of media server app so far i've tried it with the roku media app and just though the plex dashboard but 
+Last step last thing is to check to see if it worked only thing i'll say is the plex app won't find it cause again it's from 2013 and i guess the plex apps do not like the old verison your using the way you got to do it is use it with some sort of media server app so far i've tried it with the roku media app and just though the plex dashboard but there should be a way to work with everything TheCus has a guild with some stuff that might help in this case 
+
+https://www.thecus.com/download/howtoguide/HowToGuide-Plex_en.pdf
 
