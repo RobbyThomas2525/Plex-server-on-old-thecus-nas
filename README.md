@@ -21,3 +21,11 @@ step 4 is ripping your media you can use makemkv i just use handbreak cause the 
 
 <img width="1920" height="1035" alt="Screenshot from 2026-01-05 13-36-25" src="https://github.com/user-attachments/assets/29ee5379-c5bb-421c-aa3f-4fe5a8827f3e" />
 
+step 5 is adding the media to plex the way i do it is i make a media folder and add more folders in /raid0/data/ftproot and add the media though there after that go to the plex dashboard on your NAS and click the + icon and go though and put what media and what location to check after that it should work and the media should be up there in the dashboard 
+
+<img width="948" height="326" alt="image" src="https://github.com/user-attachments/assets/f44c477c-2eef-4493-bc54-bd5a4656c97f" />
+
+https://youtu.be/wq-W7blKmp0?si=I9GKzial3s7ImiBl
+
+Last step last thing is to check to see if it worked only thing i'll say is the plex app won't find it cause again it's from 2013 and i guess the plex apps do not like the old verison your using the way you got to do it is use it with some sort of media server app so far i've tried it with the roku media app and just though the plex dashboard but 
+
