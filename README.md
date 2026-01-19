@@ -10,6 +10,7 @@ Step 1 download the .mod i have here or from my archive.org https://archive.org/
 step 2 go to module installion part on the NAS take the .mod files including ffmpeg and modcase and click the computer box with the + icon and select the files and click install and let it install after that enable the all the modules with either the small square or the the play button under the action section 
 
 <img width="694" height="405" alt="image" src="https://github.com/user-attachments/assets/ba5b77f0-a471-477a-baeb-f2f46195b788" />
+
 https://youtu.be/D3vO1IHt8wA?si=fPokbozZw4951pmG
 
 step 3 after that you should be able to launch plex though (yourip):32400/ or though the module page it will have a setup page like this i don't think you need a plex account 
