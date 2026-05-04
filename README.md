@@ -19,8 +19,7 @@ step 3 after that you should be able to launch plex though (yourip):32400/ or th
 
 step 4 is ripping your media 
 
-Update: i have desided now to use makemkv since i just realize it's a waste of time and space to try and do such high bitrate for 480P also it's a simpler tool and apparently free if your using it just for DVD also it has a linux port that also has a flatpak BUT IT'S UNVERIFIED 
-https://flathub.org/en/apps/com.makemkv.MakeMKV
+Update: i have desided now to use makemkv since i just realize it's a waste of time and space to try and do such high bitrate for 480P also it's a simpler tool and apparently free if your using it just for DVD also it has a linux port that also has a flatpak BUT IT'S UNVERIFIED https://flathub.org/en/apps/com.makemkv.MakeMKV
 They also have just a linux download from the makemkv site but to me it's way more complicated https://www.makemkv.com/download/
 
 
