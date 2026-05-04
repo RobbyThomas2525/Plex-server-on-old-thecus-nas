@@ -22,6 +22,9 @@ step 4 is ripping your media
 Update: i have desided now to use makemkv since i just realize it's a waste of time and space to try and do such high bitrate for 480P also it's a simpler tool and apparently free if your using it just for DVD also it has a linux port that also has a flatpak BUT IT'S UNVERIFIED 
 https://flathub.org/en/apps/com.makemkv.MakeMKV
 
+They also have just a linux download from the makemkv site but to me it's way more complicated https://www.makemkv.com/download/
+
+
 OLD POST: 'you can use makemkv i just use handbreak cause the linux version comes with software needed to break the DVD encryption i'm using these settings the RF you might have to change depending on the movie also i use H264 cause H265 and AV1 i'm sure is out of the question on these NAS and i'm only doing DVDs there's other videos online about it if you use someone elses video just make sure you use MKV as the format'
 
 <img width="1920" height="1035" alt="Screenshot from 2026-01-05 13-36-25" src="https://github.com/user-attachments/assets/29ee5379-c5bb-421c-aa3f-4fe5a8827f3e" />
