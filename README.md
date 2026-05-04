@@ -23,6 +23,10 @@ Update: i have desided now to use makemkv since i just realize it's a waste of t
 
 They also have just a linux download from the makemkv site but to me it's way more complicated https://www.makemkv.com/download/
 
+the steps for using are here from the makemkv site https://www.makemkv.com/onlinehelp/
+or use this video from linus tech tips (if your ripping a dvd avoid 1:53-2:05 that's for blurays and also pick the titles you want if you want just the main movie it should be the biggest one)
+https://youtu.be/GdQ5bClEgHg?si=uVpp8keOF9u4qho-&t=100
+
 
 OLD POST: 'you can use makemkv i just use handbreak cause the linux version comes with software needed to break the DVD encryption i'm using these settings the RF you might have to change depending on the movie also i use H264 cause H265 and AV1 i'm sure is out of the question on these NAS and i'm only doing DVDs there's other videos online about it if you use someone elses video just make sure you use MKV as the format'
 
