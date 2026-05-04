@@ -26,7 +26,7 @@ They also have just a linux download from the makemkv site but to me it's way mo
 the steps for using are here from the makemkv site 
 https://www.makemkv.com/onlinehelp/
 
-Or use this video from linus tech tips 
+Or use this video from linus Tech Tips 
 (if your ripping a dvd avoid 1:53-2:05 that's for blurays and also pick the titles you want if you want just the main movie it should be the biggest one)
 https://youtu.be/GdQ5bClEgHg?si=uVpp8keOF9u4qho-&t=100
 
