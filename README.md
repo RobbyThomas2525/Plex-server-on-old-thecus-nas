@@ -7,7 +7,7 @@ https://web.archive.org/web/20150423124637/http://www.thecus.com/sp_app_center.p
 
 Step 1 download the .mod files i have here or from my archive.org page https://archive.org/details/Plex_0.9.7.28.33_x86_ForTheCusNAS 
 
-if you need one for TheCus OS 5 64 bit and 6 7 32 and 64 bit i got my files from here https://web.archive.org/web/20150423124637/http://www.thecus.com/sp_app_center.php
+if you need them for TheCus OS 5 64 bit and 6 7 32 and 64 bit i got my files from here https://web.archive.org/web/20150423124637/http://www.thecus.com/sp_app_center.php
 
 step 2 go to module installion part on the NAS take the .mod files including ffmpeg and modcase and click the computer box with the + icon and select the files and click install and let it install after that enable the all the modules with either the small square or the the play button under the action section 
 
